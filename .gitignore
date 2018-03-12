@@ -1,0 +1,7 @@
+
+\.floydignore
+/project-2/preprocess*
+/*/.ipynb_checkpoints
+/*/__pycache__
+/project-2/cifar-10-batches-py
+/project-2/cifar-10-python.tar.gz
